@@ -1,58 +1,45 @@
+# Little Shopper | HTML5 E-Commerce Template
 
-Little Shopper | HTML5 E-Commerce Template is a clean, minimal and simple HTML template for shopping and ecommerce websites (Specially for shoes). The code is clean, easy to edit and validated. The template is responsive to every device you use, from iPhone, iPad, Samsong Galaxy, Pixel, iPad Pro, Laptop, Large Screens and any other devices you may use. For easier manipulation of CSS files, we have included the SCSS file too.
+[View Demo](https://hamidrezasepehr.github.io/Little-Shopper-E-Commerce-HTML-Template/)
 
-The template is scalable and more options & updates will be available in future. The template is built with Bootstrap 5, JQuery, Locomotiv JS and RemixIcons.
+Little Shopper is a clean, minimal, and simple HTML5 template designed for shopping and e-commerce websites, particularly for shoe stores. The code is clean, easy to edit, and validated. The template is responsive across all devices, including iPhone, iPad, Samsung Galaxy, Pixel, iPad Pro, laptops, large screens, and more. 
 
+For easier manipulation of styles, the SCSS file is included alongside the CSS files.
 
+### Features
+- Built with **Bootstrap 5**, **jQuery**, **Locomotive JS**, and **RemixIcons**.
+- Responsive design for all screen sizes.
+- Clean and scalable code.
 
-*Pages Included:*
+---
 
-index.html
+### Pages Included
+- `index.html`
+- `about.html`
+- `blog.html`
+- `contact.html`
+- `shop.html`
+- `404.html`
+- `checkout.html`
+- `collection.html`
+- `login.html`
+- `product.html`
+- `single-blog.html`
+- `wishlist.html`
+- `success.html`
+- `error.html`
+- `form.php`
 
-about.html
+---
 
-blog.html
+### Credits
+- [Unsplash](https://unsplash.com/)
+- [Remix Icon](https://remixicon.com/)
+- [jQuery Zoom](https://www.jacklmoore.com/zoom/)
+- [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+- [jQuery Toast](https://kamranahmed.info/toast)
 
-contact.html
+---
 
-shop.html
-
-404.html
-
-checkout.html
-
-collection.html
-
-login.html
-
-product.html
-
-single-blog.html
-
-wishlist.html
-
-success.html
-
-error.html
-
-form.php
-
-
-
-**Credit:**
-
-Unsplash
-
-Remix Icon
-
-JqueryZoom
-
-OwlCarousel
-
-Jquery Toast
-
-
-
-**Note:**
-
-Images used in online preview are not included in the download package.
+### Note
+Feel free to customize it based on your needs!
